@@ -1,4 +1,4 @@
-# KRT17/GATA6 tumour-cell categories in PDAC single-cell RNA-seq: gene set enrichment analysis
+# KRT17/GATA6 tumor-cell categories in PDAC single-cell RNA-seq: gene set enrichment analysis
 
 Code accompanying Delgado-Coka L, et al. "A KRT17/GATA6 hybrid state marks unique vulnerability to MYC" (Scientific Reports, in revision).
 
