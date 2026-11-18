@@ -4,7 +4,7 @@ Code accompanying Delgado-Coka L, et al. "A KRT17/GATA6 hybrid state marks uniqu
 
 ## Data
 
-The analysis uses the ALRA-imputed malignant-epithelial single-cell object (77,155 cells) built from Peng et al. 2019 (GSA CRA001160) and Werba et al. 2023 (GEO GSM6204109). Preprocessing of this object (ambient RNA removal, quality control, batch correction, malignant-cell identification and ALRA imputation) is described in Nelson et al., Molecular Oncology 20:1857-1876 (2026), https://doi.org/10.1002/1878-0261.70218. The processed object (NYU_imputed.h5ad, 5.6 GB) is deposited at Zenodo, https://doi.org/10.5281/zenodo.XXXXXXX. The raw data are public at the accessions above.
+The analysis uses the ALRA-imputed malignant-epithelial single-cell object (77,155 cells) built from Peng et al. 2019 (GSA CRA001160) and Werba et al. 2023 (GEO GSM6204109). Preprocessing of this object (ambient RNA removal, quality control, batch correction, malignant-cell identification and ALRA imputation) is described in Nelson et al., Molecular Oncology 20:1857-1876 (2026), https://doi.org/10.1002/1878-0261.70218. The processed object (NYU_imputed.h5ad, 5.6 GB) is deposited at Zenodo](https://doi.org/10.5281/zenodo.24322447). The raw data are public at the accessions above.
 
 ## Analysis
 
